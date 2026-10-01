@@ -12802,3 +12802,9 @@ The questions provided in this repository are the summary of frequently asked qu
 Good luck with your interview 😊
 
 ---
+
+### Ranked study guide
+
+Open the [React Interview Study Guide on GitHub Pages](https://amansachdev.github.io/reactjs-interview-questions/) to work through a prioritized shortlist, search the full question set, and save completed questions in your browser. The [source files](./study-guide/) are also available here.
+
+Run it locally from the repository root with `python3 -m http.server 8000`, then visit <http://localhost:8000/study-guide/>. See [study-guide/README.md](./study-guide/README.md) for GitHub Pages setup.

@@ -1,0 +1,3188 @@
+[
+  {
+    "id": 1,
+    "title": "What is React?",
+    "slug": "what-is-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react",
+    "rank": 1
+  },
+  {
+    "id": 9,
+    "title": "What is state in React?",
+    "slug": "what-is-state-in-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-state-in-react",
+    "rank": 2
+  },
+  {
+    "id": 10,
+    "title": "What are props in React?",
+    "slug": "what-are-props-in-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-props-in-react",
+    "rank": 3
+  },
+  {
+    "id": 11,
+    "title": "What is the difference between state and props?",
+    "slug": "what-is-the-difference-between-state-and-props",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-state-and-props",
+    "rank": 4
+  },
+  {
+    "id": 24,
+    "title": "What is Lifting State Up in React?",
+    "slug": "what-is-lifting-state-up-in-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-lifting-state-up-in-react",
+    "rank": 5
+  },
+  {
+    "id": 26,
+    "title": "What is the children prop?",
+    "slug": "what-is-children-prop",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-children-prop",
+    "rank": 6
+  },
+  {
+    "id": 6,
+    "title": "How do you create components in React?",
+    "slug": "how-to-create-components-in-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-create-components-in-react",
+    "rank": 7
+  },
+  {
+    "id": 7,
+    "title": "When should you use a Class Component over a Function Component?",
+    "slug": "when-to-use-a-class-component-over-a-function-component",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-to-use-a-class-component-over-a-function-component",
+    "rank": 8
+  },
+  {
+    "id": 4,
+    "title": "What is JSX?",
+    "slug": "what-is-jsx",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-jsx",
+    "rank": 9
+  },
+  {
+    "id": 15,
+    "title": "What is the \"key\" prop and what is its benefit when used in arrays of elements?",
+    "slug": "what-is-key-prop-and-what-is-the-benefit-of-using-it-in-arrays-of-elements",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-key-prop-and-what-is-the-benefit-of-using-it-in-arrays-of-elements",
+    "rank": 10
+  },
+  {
+    "id": 45,
+    "title": "What is the impact of using indexes as keys?",
+    "slug": "what-is-the-impact-of-indexes-as-keys",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-impact-of-indexes-as-keys",
+    "rank": 11
+  },
+  {
+    "id": 46,
+    "title": "How do you conditionally render components?",
+    "slug": "how-do-you-conditionally-render-components",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-conditionally-render-components",
+    "rank": 12
+  },
+  {
+    "id": 17,
+    "title": "How does the Virtual DOM work?",
+    "slug": "how-virtual-dom-works",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-virtual-dom-works",
+    "rank": 13
+  },
+  {
+    "id": 28,
+    "title": "What is reconciliation?",
+    "slug": "what-is-reconciliation",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-reconciliation",
+    "rank": 14
+  },
+  {
+    "id": 252,
+    "title": "How does React update the screen in an application?",
+    "slug": "how-does-react-updates-screen-in-an-application",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-react-updates-screen-in-an-application",
+    "rank": 15
+  },
+  {
+    "id": 253,
+    "title": "How does React batch multiple state updates?",
+    "slug": "how-does-react-batch-multiple-state-updates",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-react-batch-multiple-state-updates",
+    "rank": 16
+  },
+  {
+    "id": 256,
+    "title": "How do you update objects inside state?",
+    "slug": "how-do-you-update-objects-inside-state",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-update-objects-inside-state",
+    "rank": 17
+  },
+  {
+    "id": 258,
+    "title": "How do you update arrays inside state?",
+    "slug": "how-do-you-update-arrays-inside-state",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-update-arrays-inside-state",
+    "rank": 18
+  },
+  {
+    "id": 260,
+    "title": "What are the benefits of preventing direct state mutations?",
+    "slug": "what-are-the-benefits-of-preventing-the-direct-state-mutations",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-benefits-of-preventing-the-direct-state-mutations",
+    "rank": 19
+  },
+  {
+    "id": 21,
+    "title": "What are controlled components?",
+    "slug": "what-are-controlled-components",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-controlled-components",
+    "rank": 20
+  },
+  {
+    "id": 22,
+    "title": "What are uncontrolled components?",
+    "slug": "what-are-uncontrolled-components",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-uncontrolled-components",
+    "rank": 21
+  },
+  {
+    "id": 12,
+    "title": "What is the difference between HTML and React event handling?",
+    "slug": "what-is-the-difference-between-html-and-react-event-handling",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-html-and-react-event-handling",
+    "rank": 22
+  },
+  {
+    "id": 188,
+    "title": "How does JSX prevent injection attacks?",
+    "slug": "how-jsx-prevents-injection-attacks",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-jsx-prevents-injection-attacks",
+    "rank": 23
+  },
+  {
+    "id": 168,
+    "title": "What are Hooks?",
+    "slug": "what-are-hooks",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-hooks",
+    "rank": 24
+  },
+  {
+    "id": 169,
+    "title": "What rules must be followed for Hooks?",
+    "slug": "what-rules-need-to-be-followed-for-hooks",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-rules-need-to-be-followed-for-hooks",
+    "rank": 25
+  },
+  {
+    "id": 170,
+    "title": "How do you ensure Hooks follow the rules in your project?",
+    "slug": "how-to-ensure-hooks-followed-the-rules-in-your-project",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-ensure-hooks-followed-the-rules-in-your-project",
+    "rank": 26
+  },
+  {
+    "id": 265,
+    "title": "What is useReducer hook? Can you describe its usage?",
+    "slug": "what-is-use-reducer-hook-can-you-describe-its-usage",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-use-reducer-hook-can-you-describe-its-usage",
+    "rank": 27
+  },
+  {
+    "id": 266,
+    "title": "How do you compare useState and useReducer?",
+    "slug": "how-do-you-compare-use-state-and-use-reducer",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-compare-use-state-and-use-reducer",
+    "rank": 28
+  },
+  {
+    "id": 273,
+    "title": "What is an updater function? Should an updater function be used in all cases?",
+    "slug": "what-is-an-updater-function-should-an-updater-function-be-used-in-all-cases",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-an-updater-function-should-an-updater-function-be-used-in-all-cases",
+    "rank": 29
+  },
+  {
+    "id": 276,
+    "title": "What happens if you call useState conditionally?",
+    "slug": "what-happens-if-you-call-usestate-conditionally",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-happens-if-you-call-usestate-conditionally",
+    "rank": 30
+  },
+  {
+    "id": 279,
+    "title": "What is useReducer? Why do you use useReducer?",
+    "slug": "what-is-usereducer-why-do-you-use-usereducer",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-usereducer-why-do-you-use-usereducer",
+    "rank": 31
+  },
+  {
+    "id": 280,
+    "title": "How does useReducer work? Explain with an example",
+    "slug": "how-does-usereducer-works-explain-with-an-example",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-usereducer-works-explain-with-an-example",
+    "rank": 32
+  },
+  {
+    "id": 281,
+    "title": "Can you combine useReducer with useContext?",
+    "slug": "can-you-combine-usereducer-with-usecontext",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-combine-usereducer-with-usecontext",
+    "rank": 33
+  },
+  {
+    "id": 267,
+    "title": "How does Context work with the useContext hook?",
+    "slug": "how-does-context-works-using-usecontext-hook",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-context-works-using-usecontext-hook",
+    "rank": 34
+  },
+  {
+    "id": 284,
+    "title": "How does useContext work? Explain with an example",
+    "slug": "how-does-usecontext-works-explain-with-an-example",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-usecontext-works-explain-with-an-example",
+    "rank": 35
+  },
+  {
+    "id": 288,
+    "title": "How do reactive dependencies in the useEffect dependency array affect its execution behavior?",
+    "slug": "how-do-reactive-dependencies-in-the-useeffect-dependency-array-affect-its-execution-behavior",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-reactive-dependencies-in-the-useeffect-dependency-array-affect-its-execution-behavior",
+    "rank": 36
+  },
+  {
+    "id": 289,
+    "title": "When and how often does React invoke the setup and cleanup functions inside a useEffect hook?",
+    "slug": "when-and-how-often-does-react-invoke-the-setup-and-cleanup-functions-inside-a-useeffect-hook",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-and-how-often-does-react-invoke-the-setup-and-cleanup-functions-inside-a-useeffect-hook",
+    "rank": 37
+  },
+  {
+    "id": 292,
+    "title": "How to prevent infinite loops with useEffect?",
+    "slug": "how-to-prevent-infinite-loops-with-useeffect",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-prevent-infinite-loops-with-useeffect",
+    "rank": 38
+  },
+  {
+    "id": 317,
+    "title": "How do you handle cleanup in useEffect?",
+    "slug": "how-do-you-handle-cleanup-in-useeffect",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-handle-cleanup-in-useeffect",
+    "rank": 39
+  },
+  {
+    "id": 319,
+    "title": "What are the best practices for using React Hooks?",
+    "slug": "what-are-the-best-practices-for-using-react-hooks",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-best-practices-for-using-react-hooks",
+    "rank": 40
+  },
+  {
+    "id": 241,
+    "title": "What is the difference between the useState and useRef Hooks?",
+    "slug": "what-is-the-difference-between-usestate-and-useref-hook",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-usestate-and-useref-hook",
+    "rank": 41
+  },
+  {
+    "id": 243,
+    "title": "What are the differences between the useEffect and useLayoutEffect Hooks?",
+    "slug": "what-are-the-differences-between-useeffect-and-uselayouteffect-hooks",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-useeffect-and-uselayouteffect-hooks",
+    "rank": 42
+  },
+  {
+    "id": 297,
+    "title": "How do you use useRef to access a DOM element in React? Give an example",
+    "slug": "how-do-you-use-useref-to-access-a-dom-element-in-react-give-an-example",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-use-useref-to-access-a-dom-element-in-react-give-an-example",
+    "rank": 43
+  },
+  {
+    "id": 298,
+    "title": "Can you use useRef to persist values across renders?",
+    "slug": "can-you-use-useref-to-persist-values-across-renders",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-use-useref-to-persist-values-across-renders",
+    "rank": 44
+  },
+  {
+    "id": 204,
+    "title": "When do you need to use refs?",
+    "slug": "when-do-you-need-to-use-refs",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-do-you-need-to-use-refs",
+    "rank": 45
+  },
+  {
+    "id": 305,
+    "title": "How is useMemo different from useCallback?",
+    "slug": "how-is-usememo-different-from-usecallback",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-is-usememo-different-from-usecallback",
+    "rank": 46
+  },
+  {
+    "id": 307,
+    "title": "What is useCallback and why is it used?",
+    "slug": "what-is-usecallback-and-why-is-it-used",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-usecallback-and-why-is-it-used",
+    "rank": 47
+  },
+  {
+    "id": 48,
+    "title": "How do you memoize a component?",
+    "slug": "how-do-you-memoize-a-component",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-memoize-a-component",
+    "rank": 48
+  },
+  {
+    "id": 306,
+    "title": "Does useMemo prevent re-rendering of child components?",
+    "slug": "does-usememo-prevent-re-rendering-of-child-components",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#does-usememo-prevent-re-rendering-of-child-components",
+    "rank": 49
+  },
+  {
+    "id": 308,
+    "title": "What are Custom React Hooks, and how can you develop one?",
+    "slug": "what-are-custom-react-hooks-and-how-can-you-develop-one",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-custom-react-hooks-and-how-can-you-develop-one",
+    "rank": 50
+  },
+  {
+    "id": 217,
+    "title": "How do you fetch data with React Hooks?",
+    "slug": "how-to-fetch-data-with-react-hooks",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-fetch-data-with-react-hooks",
+    "rank": 51
+  },
+  {
+    "id": 239,
+    "title": "What are React Server Components?",
+    "slug": "what-are-react-server-components",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-react-server-components",
+    "rank": 52
+  },
+  {
+    "id": 245,
+    "title": "What is Strict Mode in React?",
+    "slug": "what-is-strict-mode-in-react",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-strict-mode-in-react",
+    "rank": 53
+  },
+  {
+    "id": 199,
+    "title": "What is a Suspense component?",
+    "slug": "what-is-suspense-component",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-suspense-component",
+    "rank": 54
+  },
+  {
+    "id": 255,
+    "title": "What is React hydration?",
+    "slug": "what-is-react-hydration",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-hydration",
+    "rank": 55
+  },
+  {
+    "id": 49,
+    "title": "How do you implement Server-Side Rendering (SSR)?",
+    "slug": "how-you-implement-server-side-rendering-or-ssr",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-you-implement-server-side-rendering-or-ssr",
+    "rank": 56
+  },
+  {
+    "id": 320,
+    "title": "What are the key features introduced in React 18?",
+    "slug": "what-are-the-key-features-introduced-in-react-18",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-key-features-introduced-in-react-18",
+    "rank": 57
+  },
+  {
+    "id": 321,
+    "title": "What are the key features introduced in React 19?",
+    "slug": "what-are-the-key-features-introduced-in-react-19",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-key-features-introduced-in-react-19",
+    "rank": 58
+  },
+  {
+    "id": 322,
+    "title": "What is the use() hook in React 19?",
+    "slug": "what-is-the-use-hook-in-react-19",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-use-hook-in-react-19",
+    "rank": 59
+  },
+  {
+    "id": 325,
+    "title": "What is the useOptimistic hook?",
+    "slug": "what-is-the-useoptimistic-hook",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-useoptimistic-hook",
+    "rank": 60
+  },
+  {
+    "id": 311,
+    "title": "What is the useDeferredValue hook?",
+    "slug": "what-is-the-usedeferredvalue-hook",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-usedeferredvalue-hook",
+    "rank": 61
+  },
+  {
+    "id": 312,
+    "title": "What is the useTransition hook and how does it differ from useDeferredValue?",
+    "slug": "what-is-the-usetransition-hook-and-how-does-it-differ-from-usedeferredvalue",
+    "section": "Hooks",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-usetransition-hook-and-how-does-it-differ-from-usedeferredvalue",
+    "rank": 62
+  },
+  {
+    "id": 333,
+    "title": "What is the difference between client state and server state?",
+    "slug": "what-is-the-difference-between-client-state-and-server-state",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-client-state-and-server-state",
+    "rank": 63
+  },
+  {
+    "id": 332,
+    "title": "Why is Redux Toolkit recommended over Redux?",
+    "slug": "why-is-redux-toolkit-recommended-over-redux",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-is-redux-toolkit-recommended-over-redux",
+    "rank": 64
+  },
+  {
+    "id": 115,
+    "title": "Should you keep all component states in the Redux store?",
+    "slug": "should-i-keep-all-components-state-in-redux-store",
+    "section": "React Redux",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#should-i-keep-all-components-state-in-redux-store",
+    "rank": 65
+  },
+  {
+    "id": 112,
+    "title": "What is the difference between React Context and React Redux?",
+    "slug": "what-is-the-difference-between-react-context-and-react-redux",
+    "section": "React Redux",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-react-context-and-react-redux",
+    "rank": 66
+  },
+  {
+    "id": 129,
+    "title": "What are Redux selectors and why should you use them?",
+    "slug": "what-are-redux-selectors-and-why-use-them",
+    "section": "React Redux",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-redux-selectors-and-why-use-them",
+    "rank": 67
+  },
+  {
+    "id": 103,
+    "title": "What is Redux?",
+    "slug": "what-is-redux",
+    "section": "React Redux",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux",
+    "rank": 68
+  },
+  {
+    "id": 104,
+    "title": "What are the core principles of Redux?",
+    "slug": "what-are-the-core-principles-of-redux",
+    "section": "React Redux",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-core-principles-of-redux",
+    "rank": 69
+  },
+  {
+    "id": 334,
+    "title": "How do you prevent unnecessary Redux re-renders?",
+    "slug": "how-do-you-prevent-unnecessary-redux-re-renders",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-prevent-unnecessary-redux-re-renders",
+    "rank": 70
+  },
+  {
+    "id": 349,
+    "title": "What is the difference between BrowserRouter, HashRouter, and MemoryRouter?",
+    "slug": "what-is-the-difference-between-browserrouter-hashrouter-and-memoryrouter",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-browserrouter-hashrouter-and-memoryrouter",
+    "rank": 71
+  },
+  {
+    "id": 350,
+    "title": "What are dynamic routes and what are route parameters?",
+    "slug": "what-are-dynamic-routes-and-what-are-route-parameters",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-dynamic-routes-and-what-are-route-parameters",
+    "rank": 72
+  },
+  {
+    "id": 351,
+    "title": "How do you navigate programmatically in React Router?",
+    "slug": "how-do-you-navigate-programmatically-in-react-router",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-navigate-programmatically-in-react-router",
+    "rank": 73
+  },
+  {
+    "id": 352,
+    "title": "What is the difference between Link, NavLink, and `<a>`?",
+    "slug": "what-is-the-difference-between-link-navlink-and-a",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-link-navlink-and-a",
+    "rank": 74
+  },
+  {
+    "id": 353,
+    "title": "How do you implement protected/private routes?",
+    "slug": "how-do-you-implement-protectedprivate-routes",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-implement-protectedprivate-routes",
+    "rank": 75
+  },
+  {
+    "id": 354,
+    "title": "How do you handle 404 / Not Found routes?",
+    "slug": "how-do-you-handle-404--not-found-routes",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-handle-404--not-found-routes",
+    "rank": 76
+  },
+  {
+    "id": 87,
+    "title": "How do you implement a default or NotFound page?",
+    "slug": "how-to-implement-default-or-notfound-page",
+    "section": "React Router",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-implement-default-or-notfound-page",
+    "rank": 77
+  },
+  {
+    "id": 99,
+    "title": "What is Jest?",
+    "slug": "what-is-jest",
+    "section": "React Testing",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-jest",
+    "rank": 78
+  },
+  {
+    "id": 101,
+    "title": "Can you give a simple example of a Jest test case?",
+    "slug": "give-a-simple-example-of-jest-test-case",
+    "section": "React Testing",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#give-a-simple-example-of-jest-test-case",
+    "rank": 79
+  },
+  {
+    "id": 144,
+    "title": "What is React DevTools?",
+    "slug": "what-is-react-dev-tools",
+    "section": "React Supported Libraries and Integration",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-dev-tools",
+    "rank": 80
+  },
+  {
+    "id": 181,
+    "title": "What is code-splitting?",
+    "slug": "what-is-code-splitting",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-code-splitting",
+    "rank": 81
+  },
+  {
+    "id": 185,
+    "title": "What is Next.js and what are its major features?",
+    "slug": "what-is-nextjs-and-major-features-of-it",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-nextjs-and-major-features-of-it",
+    "rank": 82
+  },
+  {
+    "id": 202,
+    "title": "What is the diffing algorithm?",
+    "slug": "what-is-diffing-algorithm",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-diffing-algorithm",
+    "rank": 83
+  },
+  {
+    "id": 226,
+    "title": "Can you describe data flow in React?",
+    "slug": "describe-about-data-flow-in-react",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#describe-about-data-flow-in-react",
+    "rank": 84
+  },
+  {
+    "id": 230,
+    "title": "Explain concurrent rendering with an example",
+    "slug": "explain-concurrent-rendering-with-an-example",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#explain-concurrent-rendering-with-an-example",
+    "rank": 85
+  },
+  {
+    "id": 329,
+    "title": "What is the difference between HOCs and Hooks?",
+    "slug": "what-is-the-difference-between-hocs-and-hooks",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-hocs-and-hooks",
+    "rank": 86
+  },
+  {
+    "id": 330,
+    "title": "Does `React.memo` prevent Context consumers from re-rendering?",
+    "slug": "does-reactmemo-prevent-context-consumers-from-re-rendering",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#does-reactmemo-prevent-context-consumers-from-re-rendering",
+    "rank": 87
+  },
+  {
+    "id": 164,
+    "title": "What is the React.memo function?",
+    "slug": "what-is-react-memo-function",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-memo-function",
+    "rank": 88
+  },
+  {
+    "id": 165,
+    "title": "What is the React.lazy function?",
+    "slug": "what-is-react-lazy-function",
+    "section": "Miscellaneous",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-lazy-function",
+    "rank": 89
+  },
+  {
+    "id": 3,
+    "title": "What are the major features of React?",
+    "slug": "what-are-the-major-features-of-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-major-features-of-react",
+    "rank": 90
+  },
+  {
+    "id": 5,
+    "title": "What is the difference between an Element and a Component?",
+    "slug": "what-is-the-difference-between-an-element-and-a-component",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-an-element-and-a-component",
+    "rank": 91
+  },
+  {
+    "id": 16,
+    "title": "What is the Virtual DOM?",
+    "slug": "what-is-virtual-dom",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-virtual-dom",
+    "rank": 92
+  },
+  {
+    "id": 31,
+    "title": "What are Fragments?",
+    "slug": "what-are-fragments",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-fragments",
+    "rank": 93
+  },
+  {
+    "id": 33,
+    "title": "What are portals in React?",
+    "slug": "what-are-portals-in-react",
+    "section": "Core React",
+    "tier": 1,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-portals-in-react",
+    "rank": 94
+  },
+  {
+    "id": 2,
+    "title": "What is the history behind React’s evolution?",
+    "slug": "what-is-the-history-behind-react-evolution",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-history-behind-react-evolution",
+    "rank": null
+  },
+  {
+    "id": 8,
+    "title": "What are Pure Components?",
+    "slug": "what-are-pure-components",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-pure-components",
+    "rank": null
+  },
+  {
+    "id": 13,
+    "title": "What are synthetic events in React?",
+    "slug": "what-are-synthetic-events-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-synthetic-events-in-react",
+    "rank": null
+  },
+  {
+    "id": 14,
+    "title": "What are inline conditional expressions?",
+    "slug": "what-are-inline-conditional-expressions",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-inline-conditional-expressions",
+    "rank": null
+  },
+  {
+    "id": 18,
+    "title": "What is the difference between Shadow DOM and Virtual DOM?",
+    "slug": "what-is-the-difference-between-shadow-dom-and-virtual-dom",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-shadow-dom-and-virtual-dom",
+    "rank": null
+  },
+  {
+    "id": 23,
+    "title": "What is the difference between createElement and cloneElement?",
+    "slug": "what-is-the-difference-between-createelement-and-cloneelement",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-createelement-and-cloneelement",
+    "rank": null
+  },
+  {
+    "id": 25,
+    "title": "What are Higher-Order Components?",
+    "slug": "what-are-higher-order-components",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-higher-order-components",
+    "rank": null
+  },
+  {
+    "id": 29,
+    "title": "Does the lazy function support named exports?",
+    "slug": "does-the-lazy-function-support-named-exports",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#does-the-lazy-function-support-named-exports",
+    "rank": null
+  },
+  {
+    "id": 32,
+    "title": "Why are Fragments better than container divs?",
+    "slug": "why-fragments-are-better-than-container-divs",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-fragments-are-better-than-container-divs",
+    "rank": null
+  },
+  {
+    "id": 37,
+    "title": "What are the advantages of React?",
+    "slug": "what-are-the-advantages-of-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-advantages-of-react",
+    "rank": null
+  },
+  {
+    "id": 38,
+    "title": "What are the limitations of React?",
+    "slug": "what-are-the-limitations-of-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-limitations-of-react",
+    "rank": null
+  },
+  {
+    "id": 39,
+    "title": "What are the recommended ways for static type checking?",
+    "slug": "what-are-the-recommended-ways-for-static-type-checking",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-recommended-ways-for-static-type-checking",
+    "rank": null
+  },
+  {
+    "id": 40,
+    "title": "What is the use of the react-dom package?",
+    "slug": "what-is-the-use-of-react-dom-package",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-use-of-react-dom-package",
+    "rank": null
+  },
+  {
+    "id": 41,
+    "title": "What is ReactDOMServer?",
+    "slug": "what-is-reactdomserver",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-reactdomserver",
+    "rank": null
+  },
+  {
+    "id": 42,
+    "title": "How do you use innerHTML in React?",
+    "slug": "how-to-use-innerhtml-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-innerhtml-in-react",
+    "rank": null
+  },
+  {
+    "id": 43,
+    "title": "How do you apply styles in React?",
+    "slug": "how-to-use-styles-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-styles-in-react",
+    "rank": null
+  },
+  {
+    "id": 44,
+    "title": "How are events different in React?",
+    "slug": "how-events-are-different-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-events-are-different-in-react",
+    "rank": null
+  },
+  {
+    "id": 47,
+    "title": "Why do we need to be careful when spreading props on DOM elements?",
+    "slug": "why-we-need-to-be-careful-when-spreading-props-on-dom-elements",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-we-need-to-be-careful-when-spreading-props-on-dom-elements",
+    "rank": null
+  },
+  {
+    "id": 50,
+    "title": "How do you enable production mode in React?",
+    "slug": "how-to-enable-production-mode-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-enable-production-mode-in-react",
+    "rank": null
+  },
+  {
+    "id": 51,
+    "title": "Do Hooks replace render props and higher-order components?",
+    "slug": "do-hooks-replace-render-props-and-higher-order-components",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#do-hooks-replace-render-props-and-higher-order-components",
+    "rank": null
+  },
+  {
+    "id": 52,
+    "title": "What is a switching component?",
+    "slug": "what-is-a-switching-component",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-a-switching-component",
+    "rank": null
+  },
+  {
+    "id": 54,
+    "title": "What are the pointer events supported in React?",
+    "slug": "what-are-the-pointer-events-supported-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-pointer-events-supported-in-react",
+    "rank": null
+  },
+  {
+    "id": 55,
+    "title": "Why should component names start with a capital letter?",
+    "slug": "why-should-component-names-start-with-capital-letter",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-should-component-names-start-with-capital-letter",
+    "rank": null
+  },
+  {
+    "id": 57,
+    "title": "How do you loop inside JSX?",
+    "slug": "how-to-loop-inside-jsx",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-loop-inside-jsx",
+    "rank": null
+  },
+  {
+    "id": 58,
+    "title": "How do you access props within attribute quotes?",
+    "slug": "how-do-you-access-props-in-attribute-quotes",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-access-props-in-attribute-quotes",
+    "rank": null
+  },
+  {
+    "id": 59,
+    "title": "What is a React PropType array with shape?",
+    "slug": "what-is-react-proptype-array-with-shape",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-proptype-array-with-shape",
+    "rank": null
+  },
+  {
+    "id": 60,
+    "title": "How do you conditionally apply class attributes?",
+    "slug": "how-to-conditionally-apply-class-attributes",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-conditionally-apply-class-attributes",
+    "rank": null
+  },
+  {
+    "id": 61,
+    "title": "What is the difference between React and ReactDOM?",
+    "slug": "what-is-the-difference-between-react-and-reactdom",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-react-and-reactdom",
+    "rank": null
+  },
+  {
+    "id": 62,
+    "title": "Why is ReactDOM separated from React?",
+    "slug": "why-reactdom-is-separated-from-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-reactdom-is-separated-from-react",
+    "rank": null
+  },
+  {
+    "id": 65,
+    "title": "How do you re-render the view when the browser is resized?",
+    "slug": "how-to-re-render-the-view-when-the-browser-is-resized",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-re-render-the-view-when-the-browser-is-resized",
+    "rank": null
+  },
+  {
+    "id": 67,
+    "title": "Why can’t you update props in React?",
+    "slug": "why-you-cant-update-props-in-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-you-cant-update-props-in-react",
+    "rank": null
+  },
+  {
+    "id": 68,
+    "title": "How do you focus an input element on page load?",
+    "slug": "how-to-focus-an-input-element-on-page-load",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-focus-an-input-element-on-page-load",
+    "rank": null
+  },
+  {
+    "id": 72,
+    "title": "How do you import and export components using React and ES6?",
+    "slug": "how-to-import-and-export-components-using-react-and-es6",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-import-and-export-components-using-react-and-es6",
+    "rank": null
+  },
+  {
+    "id": 74,
+    "title": "Is it possible to use async/await in plain React?",
+    "slug": "is-it-possible-to-use-asyncawait-in-plain-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-possible-to-use-asyncawait-in-plain-react",
+    "rank": null
+  },
+  {
+    "id": 75,
+    "title": "What are common folder structures for React?",
+    "slug": "what-are-the-common-folder-structures-for-react",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-common-folder-structures-for-react",
+    "rank": null
+  },
+  {
+    "id": 77,
+    "title": "What are the benefits of style modules?",
+    "slug": "what-is-the-benefit-of-styles-modules",
+    "section": "Core React",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-benefit-of-styles-modules",
+    "rank": null
+  },
+  {
+    "id": 79,
+    "title": "What is React Router?",
+    "slug": "what-is-react-router",
+    "section": "React Router",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-router",
+    "rank": null
+  },
+  {
+    "id": 96,
+    "title": "What is the Shallow Renderer in React testing?",
+    "slug": "what-is-shallow-renderer-in-react-testing",
+    "section": "React Testing",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-shallow-renderer-in-react-testing",
+    "rank": null
+  },
+  {
+    "id": 100,
+    "title": "What are the advantages of Jest over Jasmine?",
+    "slug": "what-are-the-advantages-of-jest-over-jasmine",
+    "section": "React Testing",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-advantages-of-jest-over-jasmine",
+    "rank": null
+  },
+  {
+    "id": 102,
+    "title": "What is Flux?",
+    "slug": "what-is-flux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-flux",
+    "rank": null
+  },
+  {
+    "id": 105,
+    "title": "What are the downsides of Redux compared to Flux?",
+    "slug": "what-are-the-downsides-of-redux-compared-to-flux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-downsides-of-redux-compared-to-flux",
+    "rank": null
+  },
+  {
+    "id": 106,
+    "title": "What is the difference between mapStateToProps() and mapDispatchToProps()?",
+    "slug": "what-is-the-difference-between-mapstatetoprops-and-mapdispatchtoprops",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-mapstatetoprops-and-mapdispatchtoprops",
+    "rank": null
+  },
+  {
+    "id": 107,
+    "title": "Can you dispatch an action in a reducer?",
+    "slug": "can-i-dispatch-an-action-in-reducer",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-i-dispatch-an-action-in-reducer",
+    "rank": null
+  },
+  {
+    "id": 111,
+    "title": "How do you reset state in Redux?",
+    "slug": "how-to-reset-state-in-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-reset-state-in-redux",
+    "rank": null
+  },
+  {
+    "id": 114,
+    "title": "How do you make an AJAX request in Redux?",
+    "slug": "how-to-make-ajax-request-in-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-make-ajax-request-in-redux",
+    "rank": null
+  },
+  {
+    "id": 116,
+    "title": "What is the proper way to access the Redux store?",
+    "slug": "what-is-the-proper-way-to-access-redux-store",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-proper-way-to-access-redux-store",
+    "rank": null
+  },
+  {
+    "id": 117,
+    "title": "What is the difference between a component and a container in React Redux?",
+    "slug": "what-is-the-difference-between-component-and-container-in-react-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-component-and-container-in-react-redux",
+    "rank": null
+  },
+  {
+    "id": 122,
+    "title": "What is Redux Saga?",
+    "slug": "what-is-redux-saga",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux-saga",
+    "rank": null
+  },
+  {
+    "id": 125,
+    "title": "What is Redux Thunk?",
+    "slug": "what-is-redux-thunk",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux-thunk",
+    "rank": null
+  },
+  {
+    "id": 126,
+    "title": "What are the differences between Redux Saga and Redux Thunk?",
+    "slug": "what-are-the-differences-between-redux-saga-and-redux-thunk",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-redux-saga-and-redux-thunk",
+    "rank": null
+  },
+  {
+    "id": 127,
+    "title": "What is Redux DevTools?",
+    "slug": "what-is-redux-devtools",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux-devtools",
+    "rank": null
+  },
+  {
+    "id": 132,
+    "title": "How do you add multiple middlewares to Redux?",
+    "slug": "how-to-add-multiple-middlewares-to-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-add-multiple-middlewares-to-redux",
+    "rank": null
+  },
+  {
+    "id": 133,
+    "title": "How do you set the initial state in Redux?",
+    "slug": "how-to-set-initial-state-in-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-set-initial-state-in-redux",
+    "rank": null
+  },
+  {
+    "id": 135,
+    "title": "What is an action in Redux?",
+    "slug": "what-is-an-action-in-redux",
+    "section": "React Redux",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-an-action-in-redux",
+    "rank": null
+  },
+  {
+    "id": 136,
+    "title": "What is the difference between React Native and React?",
+    "slug": "what-is-the-difference-between-react-native-and-react",
+    "section": "React Native",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-react-native-and-react",
+    "rank": null
+  },
+  {
+    "id": 140,
+    "title": "What is Reselect and how does it work?",
+    "slug": "what-is-reselect-and-how-it-works",
+    "section": "React Supported Libraries and Integration",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-reselect-and-how-it-works",
+    "rank": null
+  },
+  {
+    "id": 141,
+    "title": "What is Flow?",
+    "slug": "what-is-flow",
+    "section": "React Supported Libraries and Integration",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-flow",
+    "rank": null
+  },
+  {
+    "id": 142,
+    "title": "What is the difference between Flow and PropTypes?",
+    "slug": "what-is-the-difference-between-flow-and-proptypes",
+    "section": "React Supported Libraries and Integration",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-flow-and-proptypes",
+    "rank": null
+  },
+  {
+    "id": 150,
+    "title": "What are styled-components?",
+    "slug": "what-are-styled-components",
+    "section": "React Supported Libraries and Integration",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-styled-components",
+    "rank": null
+  },
+  {
+    "id": 152,
+    "title": "What is Relay?",
+    "slug": "what-is-relay",
+    "section": "React Supported Libraries and Integration",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-relay",
+    "rank": null
+  },
+  {
+    "id": 153,
+    "title": "What are the main features of the Reselect library?",
+    "slug": "what-are-the-main-features-of-reselect-library",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-main-features-of-reselect-library",
+    "rank": null
+  },
+  {
+    "id": 155,
+    "title": "Can Redux only be used with React?",
+    "slug": "can-redux-only-be-used-with-react",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-redux-only-be-used-with-react",
+    "rank": null
+  },
+  {
+    "id": 158,
+    "title": "How do React PropTypes allow different types for one prop?",
+    "slug": "how-react-proptypes-allow-different-types-for-one-prop",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-react-proptypes-allow-different-types-for-one-prop",
+    "rank": null
+  },
+  {
+    "id": 159,
+    "title": "Can you import an SVG file as a React component?",
+    "slug": "can-i-import-an-svg-file-as-react-component",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-i-import-an-svg-file-as-react-component",
+    "rank": null
+  },
+  {
+    "id": 160,
+    "title": "What is render hijacking in React?",
+    "slug": "what-is-render-hijacking-in-react",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-render-hijacking-in-react",
+    "rank": null
+  },
+  {
+    "id": 162,
+    "title": "Do you need to keep all state in Redux? Should you ever use React’s internal state?",
+    "slug": "do-i-need-to-keep-all-my-state-into-redux-should-i-ever-use-react-internal-state",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#do-i-need-to-keep-all-my-state-into-redux-should-i-ever-use-react-internal-state",
+    "rank": null
+  },
+  {
+    "id": 166,
+    "title": "How do you prevent unnecessary updates using setState?",
+    "slug": "how-to-prevent-unnecessary-updates-using-setstate",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-prevent-unnecessary-updates-using-setstate",
+    "rank": null
+  },
+  {
+    "id": 167,
+    "title": "How do you render arrays, strings, and numbers in React v16?",
+    "slug": "how-do-you-render-array-strings-and-numbers-in-react-16-version",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-render-array-strings-and-numbers-in-react-16-version",
+    "rank": null
+  },
+  {
+    "id": 171,
+    "title": "What are the differences between Flux and Redux?",
+    "slug": "what-are-the-differences-between-flux-and-redux",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-flux-and-redux",
+    "rank": null
+  },
+  {
+    "id": 172,
+    "title": "What are the benefits of React Router v4?",
+    "slug": "what-are-the-benefits-of-react-router-v4",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-benefits-of-react-router-v4",
+    "rank": null
+  },
+  {
+    "id": 173,
+    "title": "Can you describe the componentDidCatch lifecycle method signature?",
+    "slug": "can-you-describe-about-componentdidcatch-lifecycle-method-signature",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-describe-about-componentdidcatch-lifecycle-method-signature",
+    "rank": null
+  },
+  {
+    "id": 174,
+    "title": "In which scenarios do error boundaries not catch errors?",
+    "slug": "in-which-scenarios-do-error-boundaries-not-catch-errors",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#in-which-scenarios-do-error-boundaries-not-catch-errors",
+    "rank": null
+  },
+  {
+    "id": 176,
+    "title": "What is the proper placement for error boundaries?",
+    "slug": "what-is-the-proper-placement-for-error-boundaries",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-proper-placement-for-error-boundaries",
+    "rank": null
+  },
+  {
+    "id": 178,
+    "title": "What are default props?",
+    "slug": "what-are-default-props",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-default-props",
+    "rank": null
+  },
+  {
+    "id": 180,
+    "title": "What is the browser support for React applications?",
+    "slug": "what-is-the-browser-support-for-react-applications",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-browser-support-for-react-applications",
+    "rank": null
+  },
+  {
+    "id": 182,
+    "title": "What are keyed Fragments?",
+    "slug": "what-are-keyed-fragments",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-keyed-fragments",
+    "rank": null
+  },
+  {
+    "id": 186,
+    "title": "How do you pass an event handler to a component?",
+    "slug": "how-do-you-pass-an-event-handler-to-a-component",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-pass-an-event-handler-to-a-component",
+    "rank": null
+  },
+  {
+    "id": 187,
+    "title": "How do you prevent a function from being called multiple times?",
+    "slug": "how-to-prevent-a-function-from-being-called-multiple-times",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-prevent-a-function-from-being-called-multiple-times",
+    "rank": null
+  },
+  {
+    "id": 190,
+    "title": "How do you indicate that props are read-only?",
+    "slug": "how-do-you-say-that-props-are-read-only",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-say-that-props-are-read-only",
+    "rank": null
+  },
+  {
+    "id": 191,
+    "title": "What are the conditions for safely using an index as a key?",
+    "slug": "what-are-the-conditions-to-safely-use-the-index-as-a-key",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-conditions-to-safely-use-the-index-as-a-key",
+    "rank": null
+  },
+  {
+    "id": 193,
+    "title": "What is the popular choice for form handling?",
+    "slug": "what-is-the-popular-choice-for-form-handling",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-popular-choice-for-form-handling",
+    "rank": null
+  },
+  {
+    "id": 194,
+    "title": "What are the advantages of Formik over the Redux Form library?",
+    "slug": "what-are-the-advantages-of-formik-over-redux-form-library",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-advantages-of-formik-over-redux-form-library",
+    "rank": null
+  },
+  {
+    "id": 196,
+    "title": "Can you use web components in a React application?",
+    "slug": "can-i-use-web-components-in-react-application",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-i-use-web-components-in-react-application",
+    "rank": null
+  },
+  {
+    "id": 197,
+    "title": "What is a dynamic import?",
+    "slug": "what-is-dynamic-import",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-dynamic-import",
+    "rank": null
+  },
+  {
+    "id": 200,
+    "title": "What is route-based code splitting?",
+    "slug": "what-is-route-based-code-splitting",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-route-based-code-splitting",
+    "rank": null
+  },
+  {
+    "id": 201,
+    "title": "What is the purpose of the default value in Context?",
+    "slug": "what-is-the-purpose-of-default-value-in-context",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-default-value-in-context",
+    "rank": null
+  },
+  {
+    "id": 203,
+    "title": "What rules are covered by the diffing algorithm?",
+    "slug": "what-are-the-rules-covered-by-diffing-algorithm",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-rules-covered-by-diffing-algorithm",
+    "rank": null
+  },
+  {
+    "id": 205,
+    "title": "Must a prop be named \"render\" for render props?",
+    "slug": "is-it-prop-must-be-named-as-render-for-render-props",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-prop-must-be-named-as-render-for-render-props",
+    "rank": null
+  },
+  {
+    "id": 207,
+    "title": "What is the windowing technique?",
+    "slug": "what-is-windowing-technique",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-windowing-technique",
+    "rank": null
+  },
+  {
+    "id": 209,
+    "title": "What is the typical use case for portals?",
+    "slug": "what-is-the-typical-use-case-of-portals",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-typical-use-case-of-portals",
+    "rank": null
+  },
+  {
+    "id": 212,
+    "title": "What is the difference between the real DOM and the Virtual DOM?",
+    "slug": "what-is-the-difference-between-real-dom-and-virtual-dom",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-real-dom-and-virtual-dom",
+    "rank": null
+  },
+  {
+    "id": 216,
+    "title": "Do you need to rewrite all class components with Hooks?",
+    "slug": "do-i-need-to-rewrite-all-my-class-components-with-hooks",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#do-i-need-to-rewrite-all-my-class-components-with-hooks",
+    "rank": null
+  },
+  {
+    "id": 218,
+    "title": "Do Hooks cover all use cases for classes?",
+    "slug": "is-hooks-cover-all-use-cases-for-classes",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-hooks-cover-all-use-cases-for-classes",
+    "rank": null
+  },
+  {
+    "id": 220,
+    "title": "Why do we use array destructuring (square bracket notation) in useState?",
+    "slug": "why-do-we-use-array-destructuring-square-brackets-notation-in-usestate",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-do-we-use-array-destructuring-square-brackets-notation-in-usestate",
+    "rank": null
+  },
+  {
+    "id": 222,
+    "title": "How do you access the imperative API of web components?",
+    "slug": "how-do-you-access-imperative-api-of-web-components",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-access-imperative-api-of-web-components",
+    "rank": null
+  },
+  {
+    "id": 223,
+    "title": "What is Formik?",
+    "slug": "what-is-formik",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-formik",
+    "rank": null
+  },
+  {
+    "id": 224,
+    "title": "What are typical middleware choices for handling asynchronous calls in Redux?",
+    "slug": "what-are-typical-middleware-choices-for-handling-asynchronous-calls-in-redux",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-typical-middleware-choices-for-handling-asynchronous-calls-in-redux",
+    "rank": null
+  },
+  {
+    "id": 227,
+    "title": "What is MobX?",
+    "slug": "what-is-mobx",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-mobx",
+    "rank": null
+  },
+  {
+    "id": 228,
+    "title": "What are the differences between Redux and MobX?",
+    "slug": "what-are-the-differences-between-redux-and-mobx",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-redux-and-mobx",
+    "rank": null
+  },
+  {
+    "id": 233,
+    "title": "What is the purpose of the ESLint plugin for Hooks?",
+    "slug": "what-is-the-purpose-of-eslint-plugin-for-hooks",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-eslint-plugin-for-hooks",
+    "rank": null
+  },
+  {
+    "id": 234,
+    "title": "What is the difference between imperative and declarative programming in React?",
+    "slug": "what-is-the-difference-between-imperative-and-declarative-in-react",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-imperative-and-declarative-in-react",
+    "rank": null
+  },
+  {
+    "id": 235,
+    "title": "What are the benefits of using TypeScript with ReactJS?",
+    "slug": "what-are-the-benefits-of-using-typescript-with-reactjs",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-benefits-of-using-typescript-with-reactjs",
+    "rank": null
+  },
+  {
+    "id": 237,
+    "title": "What are the benefits of the new JSX transform?",
+    "slug": "what-are-the-benefits-of-new-jsx-transform",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-benefits-of-new-jsx-transform",
+    "rank": null
+  },
+  {
+    "id": 238,
+    "title": "How is the new JSX transform different from the old transform?",
+    "slug": "how-is-the-new-jsx-transform-different-from-old-transform",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-is-the-new-jsx-transform-different-from-old-transform",
+    "rank": null
+  },
+  {
+    "id": 240,
+    "title": "What is prop drilling?",
+    "slug": "what-is-prop-drilling",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-prop-drilling",
+    "rank": null
+  },
+  {
+    "id": 242,
+    "title": "What is a wrapper component?",
+    "slug": "what-is-a-wrapper-component",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-a-wrapper-component",
+    "rank": null
+  },
+  {
+    "id": 244,
+    "title": "What are the differences between functional and class components?",
+    "slug": "what-are-the-differences-between-functional-and-class-components",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-functional-and-class-components",
+    "rank": null
+  },
+  {
+    "id": 246,
+    "title": "What is the benefit of Strict Mode?",
+    "slug": "what-is-the-benefit-of-strict-mode",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-benefit-of-strict-mode",
+    "rank": null
+  },
+  {
+    "id": 247,
+    "title": "Why does Strict Mode render twice in React?",
+    "slug": "why-does-strict-mode-render-twice-in-react",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-does-strict-mode-render-twice-in-react",
+    "rank": null
+  },
+  {
+    "id": 248,
+    "title": "What are the rules of JSX?",
+    "slug": "what-are-the-rules-of-jsx",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-rules-of-jsx",
+    "rank": null
+  },
+  {
+    "id": 249,
+    "title": "What is the reason multiple JSX tags must be wrapped?",
+    "slug": "what-is-the-reason-behind-multiple-jsx-tags-to-be-wrapped",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-reason-behind-multiple-jsx-tags-to-be-wrapped",
+    "rank": null
+  },
+  {
+    "id": 250,
+    "title": "How do you prevent mutating array variables?",
+    "slug": "how-do-you-prevent-mutating-array-variables",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-prevent-mutating-array-variables",
+    "rank": null
+  },
+  {
+    "id": 251,
+    "title": "What are capture phase events?",
+    "slug": "what-are-capture-phase-events",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-capture-phase-events",
+    "rank": null
+  },
+  {
+    "id": 254,
+    "title": "Is it possible to prevent automatic batching?",
+    "slug": "is-it-possible-to-prevent-automatic-batching",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-possible-to-prevent-automatic-batching",
+    "rank": null
+  },
+  {
+    "id": 257,
+    "title": "How do you update nested objects inside state?",
+    "slug": "How-do-you-update-nested-objects-inside-state",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#How-do-you-update-nested-objects-inside-state",
+    "rank": null
+  },
+  {
+    "id": 259,
+    "title": "How do you use the Immer library for state updates?",
+    "slug": "how-do-you-use-immer-library-for-state-updates",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-use-immer-library-for-state-updates",
+    "rank": null
+  },
+  {
+    "id": 261,
+    "title": "What are the preferred and non-preferred array operations for updating state?",
+    "slug": "what-are-the-preferred-and-non-preferred-array-operations-for-updating-the-state",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-preferred-and-non-preferred-array-operations-for-updating-the-state",
+    "rank": null
+  },
+  {
+    "id": 262,
+    "title": "What will happen when defining nested function components?",
+    "slug": "what-will-happen-by-defining-nested-function-components",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-will-happen-by-defining-nested-function-components",
+    "rank": null
+  },
+  {
+    "id": 263,
+    "title": "Can I use keys for non-list items?",
+    "slug": "can-i-use-keys-for-non-list-items",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-i-use-keys-for-non-list-items",
+    "rank": null
+  },
+  {
+    "id": 264,
+    "title": "What are the guidelines to follow for writing reducers?",
+    "slug": "what-are-the-guidelines-to-be-followed-for-writing-reducers",
+    "section": "Miscellaneous",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-guidelines-to-be-followed-for-writing-reducers",
+    "rank": null
+  },
+  {
+    "id": 268,
+    "title": "What are the use cases of the useContext hook?",
+    "slug": "what-are-the-use-cases-of-usecontext-hook",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-use-cases-of-usecontext-hook",
+    "rank": null
+  },
+  {
+    "id": 269,
+    "title": "When should you use client and server components?",
+    "slug": "when-to-use-client-and-server-components",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-to-use-client-and-server-components",
+    "rank": null
+  },
+  {
+    "id": 270,
+    "title": "What are the differences between the Page Router and App Router in Next.js?",
+    "slug": "what-are-the-differences-between-page-router-and-app-router-in-nextjs",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-page-router-and-app-router-in-nextjs",
+    "rank": null
+  },
+  {
+    "id": 271,
+    "title": "Can you describe the useMemo() Hook?",
+    "slug": "can-you-describe-the-usememo-hook",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-describe-the-usememo-hook",
+    "rank": null
+  },
+  {
+    "id": 272,
+    "title": "Can Hooks be used in class components?",
+    "slug": "can-hooks-be-used-in-class-components",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-hooks-be-used-in-class-components",
+    "rank": null
+  },
+  {
+    "id": 274,
+    "title": "Can useState take a function as an initial value?",
+    "slug": "can-usestate-take-a-function-as-an-initial-value",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-usestate-take-a-function-as-an-initial-value",
+    "rank": null
+  },
+  {
+    "id": 275,
+    "title": "What types of values can useState hold?",
+    "slug": "what-types-of-values-can-usestate-hold",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-types-of-values-can-usestate-hold",
+    "rank": null
+  },
+  {
+    "id": 277,
+    "title": "Is useState Synchronous or Asynchronous?",
+    "slug": "is-usestate-synchronous-or-asynchronous",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-usestate-synchronous-or-asynchronous",
+    "rank": null
+  },
+  {
+    "id": 278,
+    "title": "Can you explain how useState works internally?",
+    "slug": "can-you-explain-how-usestate-works-internally",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-explain-how-usestate-works-internally",
+    "rank": null
+  },
+  {
+    "id": 282,
+    "title": "Can you dispatch multiple actions in a row with useReducer?",
+    "slug": "can-you-dispatch-multiple-actions-in-a-row-with-usereducer",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-dispatch-multiple-actions-in-a-row-with-usereducer",
+    "rank": null
+  },
+  {
+    "id": 283,
+    "title": "Is dispatch from useReducer asynchronous and does it update state immediately?",
+    "slug": "is-dispatch-from-usereducer-asynchronous-and-does-it-update-state-immediately",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-dispatch-from-usereducer-asynchronous-and-does-it-update-state-immediately",
+    "rank": null
+  },
+  {
+    "id": 285,
+    "title": "Can you use multiple Contexts in one component?",
+    "slug": "can-you-use-multiple-contexts-in-one-component",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-use-multiple-contexts-in-one-component",
+    "rank": null
+  },
+  {
+    "id": 286,
+    "title": "What's a common pitfall when using useContext with objects?",
+    "slug": "whats-a-common-pitfall-when-using-usecontext-with-objects",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#whats-a-common-pitfall-when-using-usecontext-with-objects",
+    "rank": null
+  },
+  {
+    "id": 287,
+    "title": "What would the context value be for no matching provider?",
+    "slug": "what-would-the-context-value-be-for-no-matching-provider",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-would-the-context-value-be-for-no-matching-provider",
+    "rank": null
+  },
+  {
+    "id": 290,
+    "title": "What happens if you return a Promise from useEffect?",
+    "slug": "what-happens-if-you-return-a-promise-from-useeffect",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-happens-if-you-return-a-promise-from-useeffect",
+    "rank": null
+  },
+  {
+    "id": 291,
+    "title": "Can you have multiple useEffect hooks in a single component?",
+    "slug": "can-you-have-multiple-useeffect-hooks-in-a-single-component",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-have-multiple-useeffect-hooks-in-a-single-component",
+    "rank": null
+  },
+  {
+    "id": 293,
+    "title": "What are the use cases of useLayoutEffect?",
+    "slug": "what-are-the-usecases-of-uselayouteffect",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-usecases-of-uselayouteffect",
+    "rank": null
+  },
+  {
+    "id": 294,
+    "title": "How does useLayoutEffect work during server-side rendering (SSR)?",
+    "slug": "how-does-uselayouteffect-work-during-server-side-rendering-ssr",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-uselayouteffect-work-during-server-side-rendering-ssr",
+    "rank": null
+  },
+  {
+    "id": 295,
+    "title": "What happens if you use useLayoutEffect for non-layout logic?",
+    "slug": "what-happens-if-you-use-uselayouteffect-for-non-layout-logic",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-happens-if-you-use-uselayouteffect-for-non-layout-logic",
+    "rank": null
+  },
+  {
+    "id": 299,
+    "title": "Can useRef be used to store previous values?",
+    "slug": "can-useref-be-used-to-store-previous-values",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-useref-be-used-to-store-previous-values",
+    "rank": null
+  },
+  {
+    "id": 301,
+    "title": "What are the common use cases of useRef hook?",
+    "slug": "what-are-the-common-usecases-of-useref-hook",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-common-usecases-of-useref-hook",
+    "rank": null
+  },
+  {
+    "id": 302,
+    "title": "What is useImperativeHandle Hook? Give an example",
+    "slug": "what-is-useimperativehandle-hook-give-an-example",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-useimperativehandle-hook-give-an-example",
+    "rank": null
+  },
+  {
+    "id": 303,
+    "title": "When should you use useImperativeHandle?",
+    "slug": "when-should-you-use-useimperativehandle",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-should-you-use-useimperativehandle",
+    "rank": null
+  },
+  {
+    "id": 304,
+    "title": "Is it possible to use useImperativeHandle without forwardRef?",
+    "slug": "is-that-possible-to-use-useimperativehandle-without-forwardref",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-that-possible-to-use-useimperativehandle-without-forwardref",
+    "rank": null
+  },
+  {
+    "id": 310,
+    "title": "What is the useId hook and when should you use it?",
+    "slug": "what-is-the-useid-hook-and-when-should-you-use-it",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-useid-hook-and-when-should-you-use-it",
+    "rank": null
+  },
+  {
+    "id": 315,
+    "title": "How do you share state logic between components using custom hooks?",
+    "slug": "how-do-you-share-state-logic-between-components-using-custom-hooks",
+    "section": "Hooks",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-share-state-logic-between-components-using-custom-hooks",
+    "rank": null
+  },
+  {
+    "id": 323,
+    "title": "What are Server Actions in React 19?",
+    "slug": "what-are-server-actions-in-react-19",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-server-actions-in-react-19",
+    "rank": null
+  },
+  {
+    "id": 324,
+    "title": "What are useFormState and useFormStatus hooks?",
+    "slug": "what-are-useformstate-and-useformstatus-hooks",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-useformstate-and-useformstatus-hooks",
+    "rank": null
+  },
+  {
+    "id": 326,
+    "title": "What is the React Compiler (React Forget)?",
+    "slug": "what-is-the-react-compiler-react-forget",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-react-compiler-react-forget",
+    "rank": null
+  },
+  {
+    "id": 327,
+    "title": "What is Streaming SSR and how does React 18+ improve it?",
+    "slug": "what-is-streaming-ssr-and-how-does-react-18-improve-it",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-streaming-ssr-and-how-does-react-18-improve-it",
+    "rank": null
+  },
+  {
+    "id": 328,
+    "title": "What is `renderToPipeableStream` and how is it different from renderToString?",
+    "slug": "what-is-rendertopipeablestream-and-how-is-it-different-from-rendertostring",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-rendertopipeablestream-and-how-is-it-different-from-rendertostring",
+    "rank": null
+  },
+  {
+    "id": 331,
+    "title": "How would you create a reusable Context?",
+    "slug": "how-would-you-create-a-reusable-context",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-would-you-create-a-reusable-context",
+    "rank": null
+  },
+  {
+    "id": 335,
+    "title": "What is `createSelector`?",
+    "slug": "what-is-createselector",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-createselector",
+    "rank": null
+  },
+  {
+    "id": 336,
+    "title": "What is normalized Redux state?",
+    "slug": "what-is-normalized-redux-state",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-normalized-redux-state",
+    "rank": null
+  },
+  {
+    "id": 337,
+    "title": "Why is normalized state important for performance?",
+    "slug": "why-is-normalized-state-important-for-performance",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-is-normalized-state-important-for-performance",
+    "rank": null
+  },
+  {
+    "id": 338,
+    "title": "What is Redux middleware?",
+    "slug": "what-is-redux-middleware",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux-middleware",
+    "rank": null
+  },
+  {
+    "id": 340,
+    "title": "What happens when you dispatch an action?",
+    "slug": "what-happens-when-you-dispatch-an-action",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-happens-when-you-dispatch-an-action",
+    "rank": null
+  },
+  {
+    "id": 341,
+    "title": "How would you structure Redux in a large application?",
+    "slug": "how-would-you-structure-redux-in-a-large-application",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-would-you-structure-redux-in-a-large-application",
+    "rank": null
+  },
+  {
+    "id": 342,
+    "title": "How do you handle cross-slice communication?",
+    "slug": "how-do-you-handle-cross-slice-communication",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-handle-cross-slice-communication",
+    "rank": null
+  },
+  {
+    "id": 343,
+    "title": "What are Redux serializable values?",
+    "slug": "what-are-redux-serializable-values",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-redux-serializable-values",
+    "rank": null
+  },
+  {
+    "id": 344,
+    "title": "How do you handle race conditions in Redux?",
+    "slug": "how-do-you-handle-race-conditions-in-redux",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-handle-race-conditions-in-redux",
+    "rank": null
+  },
+  {
+    "id": 345,
+    "title": "How do you persist Redux state?",
+    "slug": "how-do-you-persist-redux-state",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-persist-redux-state",
+    "rank": null
+  },
+  {
+    "id": 346,
+    "title": "How do you debug a Redux performance problem?",
+    "slug": "how-do-you-debug-a-redux-performance-problem",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-debug-a-redux-performance-problem",
+    "rank": null
+  },
+  {
+    "id": 347,
+    "title": "What should be stored in Redux vs derived with selectors?",
+    "slug": "what-should-be-stored-in-redux-vs-derived-with-selectors",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-should-be-stored-in-redux-vs-derived-with-selectors",
+    "rank": null
+  },
+  {
+    "id": 348,
+    "title": "Would you put all API data into Redux?",
+    "slug": "would-you-put-all-api-data-into-redux",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#would-you-put-all-api-data-into-redux",
+    "rank": null
+  },
+  {
+    "id": 355,
+    "title": "What are loaders, actions, and data APIs in modern React Router?",
+    "slug": "what-are-loaders-actions-and-data-apis-in-modern-react-router",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-loaders-actions-and-data-apis-in-modern-react-router",
+    "rank": null
+  },
+  {
+    "id": 356,
+    "title": "How do query parameters work?",
+    "slug": "how-do-query-parameters-work",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 2,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-query-parameters-work",
+    "rank": null
+  },
+  {
+    "id": 19,
+    "title": "What is React Fiber?",
+    "slug": "what-is-react-fiber",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-fiber",
+    "rank": null
+  },
+  {
+    "id": 20,
+    "title": "What is the main goal of React Fiber?",
+    "slug": "what-is-the-main-goal-of-react-fiber",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-main-goal-of-react-fiber",
+    "rank": null
+  },
+  {
+    "id": 27,
+    "title": "How do you write comments in React?",
+    "slug": "how-to-write-comments-in-react",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-write-comments-in-react",
+    "rank": null
+  },
+  {
+    "id": 30,
+    "title": "Why does React use className instead of the class attribute?",
+    "slug": "why-react-uses-classname-over-class-attribute",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-react-uses-classname-over-class-attribute",
+    "rank": null
+  },
+  {
+    "id": 34,
+    "title": "What are stateless components?",
+    "slug": "what-are-stateless-components",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-stateless-components",
+    "rank": null
+  },
+  {
+    "id": 35,
+    "title": "What are stateful components?",
+    "slug": "what-are-stateful-components",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-stateful-components",
+    "rank": null
+  },
+  {
+    "id": 36,
+    "title": "How do you apply validation to props in React?",
+    "slug": "how-to-apply-validation-on-props-in-react",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-apply-validation-on-props-in-react",
+    "rank": null
+  },
+  {
+    "id": 56,
+    "title": "Are custom DOM attributes supported in React v16?",
+    "slug": "are-custom-dom-attributes-supported-in-react-v16",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#are-custom-dom-attributes-supported-in-react-v16",
+    "rank": null
+  },
+  {
+    "id": 63,
+    "title": "How do you use the React label element?",
+    "slug": "how-to-use-react-label-element",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-react-label-element",
+    "rank": null
+  },
+  {
+    "id": 64,
+    "title": "How do you combine multiple inline style objects?",
+    "slug": "how-to-combine-multiple-inline-style-objects",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-combine-multiple-inline-style-objects",
+    "rank": null
+  },
+  {
+    "id": 66,
+    "title": "How do you pretty-print JSON with React?",
+    "slug": "how-to-pretty-print-json-with-react",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-pretty-print-json-with-react",
+    "rank": null
+  },
+  {
+    "id": 69,
+    "title": "How can you find the version of React at runtime in the browser?",
+    "slug": "how-can-we-find-the-version-of-react-at-runtime-in-the-browser",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-can-we-find-the-version-of-react-at-runtime-in-the-browser",
+    "rank": null
+  },
+  {
+    "id": 70,
+    "title": "How do you add Google Analytics for React Router?",
+    "slug": "how-to-add-google-analytics-for-react-router",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-add-google-analytics-for-react-router",
+    "rank": null
+  },
+  {
+    "id": 71,
+    "title": "How do you apply vendor prefixes to inline styles in React?",
+    "slug": "how-do-you-apply-vendor-prefixes-to-inline-styles-in-react",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-apply-vendor-prefixes-to-inline-styles-in-react",
+    "rank": null
+  },
+  {
+    "id": 73,
+    "title": "What are the exceptions to React component naming?",
+    "slug": "what-are-the-exceptions-on-react-component-naming",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-exceptions-on-react-component-naming",
+    "rank": null
+  },
+  {
+    "id": 76,
+    "title": "What are popular packages for animation?",
+    "slug": "what-are-the-popular-packages-for-animation",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-popular-packages-for-animation",
+    "rank": null
+  },
+  {
+    "id": 78,
+    "title": "What are popular React-specific linters?",
+    "slug": "what-are-the-popular-react-specific-linters",
+    "section": "Core React",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-popular-react-specific-linters",
+    "rank": null
+  },
+  {
+    "id": 80,
+    "title": "How is React Router different from the history library?",
+    "slug": "how-react-router-is-different-from-history-library",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-react-router-is-different-from-history-library",
+    "rank": null
+  },
+  {
+    "id": 81,
+    "title": "What are the <Router> components of React Router v6?",
+    "slug": "what-are-the-router-components-of-react-router-v6",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-router-components-of-react-router-v6",
+    "rank": null
+  },
+  {
+    "id": 82,
+    "title": "What is the purpose of the push and replace methods of history?",
+    "slug": "what-is-the-purpose-of-push-and-replace-methods-of-history",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-push-and-replace-methods-of-history",
+    "rank": null
+  },
+  {
+    "id": 83,
+    "title": "How do you programmatically navigate using React Router v4?",
+    "slug": "how-do-you-programmatically-navigate-using-react-router-v4",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-programmatically-navigate-using-react-router-v4",
+    "rank": null
+  },
+  {
+    "id": 84,
+    "title": "How do you get query parameters in React Router v4?",
+    "slug": "how-to-get-query-parameters-in-react-router-v4",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-get-query-parameters-in-react-router-v4",
+    "rank": null
+  },
+  {
+    "id": 85,
+    "title": "Why do you get a \"Router may have only one child element\" warning?",
+    "slug": "why-you-get-router-may-have-only-one-child-element-warning",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-you-get-router-may-have-only-one-child-element-warning",
+    "rank": null
+  },
+  {
+    "id": 86,
+    "title": "How do you pass params to the history.push method in React Router v4?",
+    "slug": "how-to-pass-params-to-historypush-method-in-react-router-v4",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-pass-params-to-historypush-method-in-react-router-v4",
+    "rank": null
+  },
+  {
+    "id": 88,
+    "title": "How do you get history in React Router v4?",
+    "slug": "how-to-get-history-on-react-router-v4",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-get-history-on-react-router-v4",
+    "rank": null
+  },
+  {
+    "id": 89,
+    "title": "How do you perform an automatic redirect after login?",
+    "slug": "how-to-perform-automatic-redirect-after-login",
+    "section": "React Router",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-perform-automatic-redirect-after-login",
+    "rank": null
+  },
+  {
+    "id": 90,
+    "title": "What is React Intl?",
+    "slug": "what-is-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-react-intl",
+    "rank": null
+  },
+  {
+    "id": 91,
+    "title": "What are the main features of React Intl?",
+    "slug": "what-are-the-main-features-of-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-main-features-of-react-intl",
+    "rank": null
+  },
+  {
+    "id": 92,
+    "title": "What are the two ways of formatting in React Intl?",
+    "slug": "what-are-the-two-ways-of-formatting-in-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-two-ways-of-formatting-in-react-intl",
+    "rank": null
+  },
+  {
+    "id": 93,
+    "title": "How do you use FormattedMessage as a placeholder with React Intl?",
+    "slug": "how-to-use-formattedmessage-as-placeholder-using-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-formattedmessage-as-placeholder-using-react-intl",
+    "rank": null
+  },
+  {
+    "id": 94,
+    "title": "How do you access the current locale with React Intl?",
+    "slug": "how-to-access-current-locale-with-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-access-current-locale-with-react-intl",
+    "rank": null
+  },
+  {
+    "id": 95,
+    "title": "How do you format a date using React Intl?",
+    "slug": "how-to-format-date-using-react-intl",
+    "section": "React Internationalization",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-format-date-using-react-intl",
+    "rank": null
+  },
+  {
+    "id": 97,
+    "title": "What is the TestRenderer package in React?",
+    "slug": "what-is-testrenderer-package-in-react",
+    "section": "React Testing",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-testrenderer-package-in-react",
+    "rank": null
+  },
+  {
+    "id": 98,
+    "title": "What is the purpose of the ReactTestUtils package?",
+    "slug": "what-is-the-purpose-of-reacttestutils-package",
+    "section": "React Testing",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-reacttestutils-package",
+    "rank": null
+  },
+  {
+    "id": 108,
+    "title": "How do you access the Redux store outside a component?",
+    "slug": "how-to-access-redux-store-outside-a-component",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-access-redux-store-outside-a-component",
+    "rank": null
+  },
+  {
+    "id": 109,
+    "title": "What are the drawbacks of the MVW pattern?",
+    "slug": "what-are-the-drawbacks-of-mvw-pattern",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-drawbacks-of-mvw-pattern",
+    "rank": null
+  },
+  {
+    "id": 110,
+    "title": "Are there any similarities between Redux and RxJS?",
+    "slug": "are-there-any-similarities-between-redux-and-rxjs",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#are-there-any-similarities-between-redux-and-rxjs",
+    "rank": null
+  },
+  {
+    "id": 113,
+    "title": "Why are Redux state functions called reducers?",
+    "slug": "why-are-redux-state-functions-called-reducers",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-are-redux-state-functions-called-reducers",
+    "rank": null
+  },
+  {
+    "id": 118,
+    "title": "What is the purpose of constants in Redux?",
+    "slug": "what-is-the-purpose-of-the-constants-in-redux",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-the-constants-in-redux",
+    "rank": null
+  },
+  {
+    "id": 119,
+    "title": "What are the different ways to write mapDispatchToProps()?",
+    "slug": "what-are-the-different-ways-to-write-mapdispatchtoprops",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-different-ways-to-write-mapdispatchtoprops",
+    "rank": null
+  },
+  {
+    "id": 120,
+    "title": "What is the use of the ownProps parameter in mapStateToProps() and mapDispatchToProps()?",
+    "slug": "what-is-the-use-of-the-ownprops-parameter-in-mapstatetoprops-and-mapdispatchtoprops",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-use-of-the-ownprops-parameter-in-mapstatetoprops-and-mapdispatchtoprops",
+    "rank": null
+  },
+  {
+    "id": 121,
+    "title": "How do you structure Redux top-level directories?",
+    "slug": "how-to-structure-redux-top-level-directories",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-structure-redux-top-level-directories",
+    "rank": null
+  },
+  {
+    "id": 123,
+    "title": "What is the mental model of Redux Saga?",
+    "slug": "what-is-the-mental-model-of-redux-saga",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-mental-model-of-redux-saga",
+    "rank": null
+  },
+  {
+    "id": 124,
+    "title": "What are the differences between call and put in Redux Saga?",
+    "slug": "what-are-the-differences-between-call-and-put-in-redux-saga",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-call-and-put-in-redux-saga",
+    "rank": null
+  },
+  {
+    "id": 128,
+    "title": "What are the features of Redux DevTools?",
+    "slug": "what-are-the-features-of-redux-devtools",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-features-of-redux-devtools",
+    "rank": null
+  },
+  {
+    "id": 130,
+    "title": "What is Redux Form?",
+    "slug": "what-is-redux-form",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-redux-form",
+    "rank": null
+  },
+  {
+    "id": 131,
+    "title": "What are the main features of Redux Form?",
+    "slug": "what-are-the-main-features-of-redux-form",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-main-features-of-redux-form",
+    "rank": null
+  },
+  {
+    "id": 134,
+    "title": "How is Relay different from Redux?",
+    "slug": "how-relay-is-different-from-redux",
+    "section": "React Redux",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-relay-is-different-from-redux",
+    "rank": null
+  },
+  {
+    "id": 137,
+    "title": "How do you test React Native apps?",
+    "slug": "how-to-test-react-native-apps",
+    "section": "React Native",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-test-react-native-apps",
+    "rank": null
+  },
+  {
+    "id": 138,
+    "title": "How do you log in React Native?",
+    "slug": "how-to-do-logging-in-react-native",
+    "section": "React Native",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-do-logging-in-react-native",
+    "rank": null
+  },
+  {
+    "id": 139,
+    "title": "How do you debug React Native apps?",
+    "slug": "how-to-debug-your-react-native",
+    "section": "React Native",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-debug-your-react-native",
+    "rank": null
+  },
+  {
+    "id": 143,
+    "title": "How do you use Font Awesome icons in React?",
+    "slug": "how-to-use-font-awesome-icons-in-react",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-font-awesome-icons-in-react",
+    "rank": null
+  },
+  {
+    "id": 145,
+    "title": "Why does DevTools not load in Chrome for local files?",
+    "slug": "why-is-devtools-not-loading-in-chrome-for-local-files",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-is-devtools-not-loading-in-chrome-for-local-files",
+    "rank": null
+  },
+  {
+    "id": 146,
+    "title": "How do you use Polymer in React?",
+    "slug": "how-to-use-polymer-in-react",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-use-polymer-in-react",
+    "rank": null
+  },
+  {
+    "id": 147,
+    "title": "What are the advantages of React over Vue.js?",
+    "slug": "what-are-the-advantages-of-react-over-vuejs",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-advantages-of-react-over-vuejs",
+    "rank": null
+  },
+  {
+    "id": 148,
+    "title": "What is the difference between React and Angular?",
+    "slug": "what-is-the-difference-between-react-and-angular",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-react-and-angular",
+    "rank": null
+  },
+  {
+    "id": 149,
+    "title": "Why is the React tab not showing up in DevTools?",
+    "slug": "why-react-tab-is-not-showing-up-in-devtools",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-react-tab-is-not-showing-up-in-devtools",
+    "rank": null
+  },
+  {
+    "id": 151,
+    "title": "Can you give an example of styled-components?",
+    "slug": "give-an-example-of-styled-components",
+    "section": "React Supported Libraries and Integration",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#give-an-example-of-styled-components",
+    "rank": null
+  },
+  {
+    "id": 154,
+    "title": "Can you give an example of Reselect usage?",
+    "slug": "give-an-example-of-reselect-usage",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#give-an-example-of-reselect-usage",
+    "rank": null
+  },
+  {
+    "id": 156,
+    "title": "Do you need a specific build tool to use Redux?",
+    "slug": "do-you-need-to-have-a-particular-build-tool-to-use-redux",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#do-you-need-to-have-a-particular-build-tool-to-use-redux",
+    "rank": null
+  },
+  {
+    "id": 157,
+    "title": "How do Redux Form initial values get updated from state?",
+    "slug": "how-redux-form-initialvalues-get-updated-from-state",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-redux-form-initialvalues-get-updated-from-state",
+    "rank": null
+  },
+  {
+    "id": 161,
+    "title": "How do you pass numbers to a React component?",
+    "slug": "how-to-pass-numbers-to-react-component",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-pass-numbers-to-react-component",
+    "rank": null
+  },
+  {
+    "id": 163,
+    "title": "What is the purpose of registerServiceWorker in React?",
+    "slug": "what-is-the-purpose-of-registerserviceworker-in-react",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-registerserviceworker-in-react",
+    "rank": null
+  },
+  {
+    "id": 175,
+    "title": "What is the behavior of uncaught errors in React v16?",
+    "slug": "what-is-the-behavior-of-uncaught-errors-in-react-16",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-behavior-of-uncaught-errors-in-react-16",
+    "rank": null
+  },
+  {
+    "id": 177,
+    "title": "What is the benefit of a component stack trace from an error boundary?",
+    "slug": "what-is-the-benefit-of-component-stack-trace-from-error-boundary",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-benefit-of-component-stack-trace-from-error-boundary",
+    "rank": null
+  },
+  {
+    "id": 179,
+    "title": "What is the purpose of the displayName class property?",
+    "slug": "what-is-the-purpose-of-displayname-class-property",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-purpose-of-displayname-class-property",
+    "rank": null
+  },
+  {
+    "id": 183,
+    "title": "Does React support all HTML attributes?",
+    "slug": "does-react-support-all-html-attributes",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#does-react-support-all-html-attributes",
+    "rank": null
+  },
+  {
+    "id": 184,
+    "title": "When do component props default to true?",
+    "slug": "when-component-props-defaults-to-true",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#when-component-props-defaults-to-true",
+    "rank": null
+  },
+  {
+    "id": 189,
+    "title": "How do you update rendered elements?",
+    "slug": "how-do-you-update-rendered-elements",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-update-rendered-elements",
+    "rank": null
+  },
+  {
+    "id": 192,
+    "title": "Do keys need to be globally unique?",
+    "slug": "is-it-keys-should-be-globally-unique",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-keys-should-be-globally-unique",
+    "rank": null
+  },
+  {
+    "id": 195,
+    "title": "Why are you not required to use inheritance?",
+    "slug": "why-do-you-not-required-to-use-inheritance",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#why-do-you-not-required-to-use-inheritance",
+    "rank": null
+  },
+  {
+    "id": 198,
+    "title": "What are loadable components?",
+    "slug": "what-are-loadable-components",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-loadable-components",
+    "rank": null
+  },
+  {
+    "id": 206,
+    "title": "What are the problems with using render props with Pure Components?",
+    "slug": "what-are-the-problems-of-using-render-props-with-pure-components",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-problems-of-using-render-props-with-pure-components",
+    "rank": null
+  },
+  {
+    "id": 208,
+    "title": "How do you print falsy values in JSX?",
+    "slug": "how-do-you-print-falsy-values-in-jsx",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-print-falsy-values-in-jsx",
+    "rank": null
+  },
+  {
+    "id": 210,
+    "title": "How do you set a default value for an uncontrolled component?",
+    "slug": "how-do-you-set-default-value-for-uncontrolled-component",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-set-default-value-for-uncontrolled-component",
+    "rank": null
+  },
+  {
+    "id": 211,
+    "title": "What is your favorite React stack?",
+    "slug": "what-is-your-favorite-react-stack",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-your-favorite-react-stack",
+    "rank": null
+  },
+  {
+    "id": 213,
+    "title": "How do you add Bootstrap to a React application?",
+    "slug": "how-to-add-bootstrap-to-a-react-application",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-to-add-bootstrap-to-a-react-application",
+    "rank": null
+  },
+  {
+    "id": 214,
+    "title": "Can you list the top websites or applications using React as a front-end framework?",
+    "slug": "can-you-list-down-top-websites-or-applications-using-react-as-front-end-framework",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#can-you-list-down-top-websites-or-applications-using-react-as-front-end-framework",
+    "rank": null
+  },
+  {
+    "id": 215,
+    "title": "Is it recommended to use the CSS-in-JS technique in React?",
+    "slug": "is-it-recommended-to-use-css-in-js-technique-in-react",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-recommended-to-use-css-in-js-technique-in-react",
+    "rank": null
+  },
+  {
+    "id": 219,
+    "title": "What is the stable release for Hooks support?",
+    "slug": "what-is-the-stable-release-for-hooks-support",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-stable-release-for-hooks-support",
+    "rank": null
+  },
+  {
+    "id": 221,
+    "title": "What sources were used for introducing Hooks?",
+    "slug": "what-are-the-sources-used-for-introducing-hooks",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-sources-used-for-introducing-hooks",
+    "rank": null
+  },
+  {
+    "id": 225,
+    "title": "Do browsers understand JSX code?",
+    "slug": "do-browsers-understand-jsx-code",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#do-browsers-understand-jsx-code",
+    "rank": null
+  },
+  {
+    "id": 229,
+    "title": "Should you learn ES6 before learning ReactJS?",
+    "slug": "should-i-learn-es6-before-learning-reactjs",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#should-i-learn-es6-before-learning-reactjs",
+    "rank": null
+  },
+  {
+    "id": 231,
+    "title": "What is the difference between async mode and concurrent mode?",
+    "slug": "what-is-the-difference-between-async-mode-and-concurrent-mode",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-difference-between-async-mode-and-concurrent-mode",
+    "rank": null
+  },
+  {
+    "id": 236,
+    "title": "How do you ensure a user remains authenticated on page refresh while using Context API state management?",
+    "slug": "how-do-you-make-sure-that-user-remains-authenticated-on-page-refresh-while-using-context-api-state-management",
+    "section": "Miscellaneous",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-do-you-make-sure-that-user-remains-authenticated-on-page-refresh-while-using-context-api-state-management",
+    "rank": null
+  },
+  {
+    "id": 296,
+    "title": "How does useLayoutEffect cause layout thrashing?",
+    "slug": "how-does-uselayouteffect-cause-layout-thrashing",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-uselayouteffect-cause-layout-thrashing",
+    "rank": null
+  },
+  {
+    "id": 300,
+    "title": "Is it possible to access a ref in the render method?",
+    "slug": "is-it-possible-to-access-a-ref-in-the-render-method",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#is-it-possible-to-access-a-ref-in-the-render-method",
+    "rank": null
+  },
+  {
+    "id": 309,
+    "title": "How does React Fiber work? Explain in detail",
+    "slug": "how-does-react-fiber-works-explain-in-detail",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#how-does-react-fiber-works-explain-in-detail",
+    "rank": null
+  },
+  {
+    "id": 313,
+    "title": "What is the useSyncExternalStore hook?",
+    "slug": "what-is-the-usesyncexternalstore-hook",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-usesyncexternalstore-hook",
+    "rank": null
+  },
+  {
+    "id": 314,
+    "title": "What is the useInsertionEffect hook?",
+    "slug": "what-is-the-useinsertioneffect-hook",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-useinsertioneffect-hook",
+    "rank": null
+  },
+  {
+    "id": 316,
+    "title": "What is the useDebugValue hook?",
+    "slug": "what-is-the-usedebugvalue-hook",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-usedebugvalue-hook",
+    "rank": null
+  },
+  {
+    "id": 318,
+    "title": "What are the differences between useEffect and useEvent (experimental)?",
+    "slug": "what-are-the-differences-between-useeffect-and-useevent-experimental",
+    "section": "Hooks",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-are-the-differences-between-useeffect-and-useevent-experimental",
+    "rank": null
+  },
+  {
+    "id": 339,
+    "title": "What is the Redux middleware signature?",
+    "slug": "what-is-the-redux-middleware-signature",
+    "section": "Modern React Features (React 18/19)",
+    "tier": 3,
+    "answerUrl": "https://github.com/sudheerj/reactjs-interview-questions#what-is-the-redux-middleware-signature",
+    "rank": null
+  }
+]
