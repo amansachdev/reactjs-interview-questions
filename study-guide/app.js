@@ -4,6 +4,7 @@ const query = document.querySelector('#search');
 const hideDone = document.querySelector('#hide-done');
 const empty = document.querySelector('#empty-state');
 let questions = [];
+let answers = {};
 let activeTier = 'all';
 let completed = readProgress();
 
@@ -26,6 +27,17 @@ function updateProgress() {
   for (const tier of [1, 2, 3]) {
     document.querySelector(`#count-${tier}`).textContent = questions.filter(q => q.tier === tier).length;
   }
+}
+function safeAnswer(html) {
+  const template = document.createElement('template');
+  template.innerHTML = html || '<p>Answer not available in the source README.</p>';
+  template.content.querySelectorAll('script, iframe, object, embed').forEach(node => node.remove());
+  template.content.querySelectorAll('*').forEach(node => {
+    for (const attr of [...node.attributes]) {
+      if (/^on/i.test(attr.name) || ((attr.name === 'href' || attr.name === 'src') && /^\s*javascript:/i.test(attr.value))) node.removeAttribute(attr.name);
+    }
+  });
+  return template.content;
 }
 function render() {
   const term = query.value.trim().toLocaleLowerCase();
@@ -74,14 +86,15 @@ function render() {
     section.textContent = q.section;
     details.append(number, section);
     main.append(title, details);
-    const answer = document.createElement('a');
-    answer.className = 'answer-link';
-    answer.href = q.answerUrl;
-    answer.target = '_blank';
-    answer.rel = 'noreferrer';
-    answer.textContent = 'Read answer ↗';
-    answer.setAttribute('aria-label', `Read answer for: ${q.title}`);
-    row.append(checkLabel, main, answer);
+    const disclosure = document.createElement('details');
+    disclosure.className = 'answer-details';
+    const summary = document.createElement('summary');
+    summary.textContent = 'Show answer';
+    const answer = document.createElement('div');
+    answer.className = 'answer-content';
+    answer.append(safeAnswer(answers[String(q.id)]));
+    disclosure.append(summary, answer);
+    row.append(checkLabel, main, disclosure);
     list.append(row);
   }
   empty.hidden = visible.length !== 0;
@@ -101,12 +114,13 @@ document.addEventListener('keydown', event => {
   }
   if (event.key === 'Escape' && document.activeElement === query) { query.value = ''; render(); query.blur(); }
 });
-fetch('./questions.json').then(response => {
-  if (!response.ok) throw new Error('Could not load the question list.');
-  return response.json();
-}).then(data => {
-  questions = data.sort((a,b) => a.tier - b.tier || (a.rank ?? 1000 + a.id) - (b.rank ?? 1000 + b.id));
+Promise.all([fetch('./questions.json'), fetch('./answers.json')]).then(async ([questionResponse, answerResponse]) => {
+  if (!questionResponse.ok || !answerResponse.ok) throw new Error('Could not load the study guide.');
+  return Promise.all([questionResponse.json(), answerResponse.json()]);
+}).then(([questionData, answerData]) => {
+  questions = questionData.sort((a,b) => a.tier - b.tier || (a.rank ?? 1000 + a.id) - (b.rank ?? 1000 + b.id));
+  answers = answerData;
   updateProgress(); render();
 }).catch(() => {
-  document.querySelector('#list-meta').textContent = 'Could not load questions. Run the local server from the study-guide folder.';
+  document.querySelector('#list-meta').textContent = 'Could not load the study guide. Run the local server from the repository root.';
 });

@@ -1,6 +1,6 @@
 # React Interview Study Guide
 
-A static, locally runnable study checklist for the 354 questions in the main table of the repository README. It puts a curated high value shortlist first, keeps the remaining questions available by priority, and saves checked items in browser local storage.
+A static, locally runnable study checklist for the 354 questions and their answers in the main table of the repository README. It puts a curated high value shortlist first, keeps the remaining questions available by priority, and saves checked items in browser local storage.
 
 ## Run locally
 
@@ -20,4 +20,4 @@ Browser storage remains local to each visitor and browser; completion state does
 
 ## Ranking notes
 
-“Start here” is the curated shortlist of core concepts, current React usage, and common implementation tradeoffs. “Next” adds useful depth. “Optional” includes narrower library, platform, legacy API, and repeated questions. This is a study order, not a claim that any company will ask a particular question. The source question bank predates some React 19.3 additions, so check the current React docs for newer APIs. The answer links point back to the original repository README.
+“Start here” is the curated shortlist of core concepts, current React usage, and common implementation tradeoffs. “Next” adds useful depth. “Optional” includes narrower library, platform, legacy API, and repeated questions. This is a study order, not a claim that any company will ask a particular question. The source question bank predates some React 19.3 additions, so check the current React docs for newer APIs. The answer content is included in the app and expands inline from the repository README.
