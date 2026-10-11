@@ -1,4 +1,14 @@
 # React Interview Questions & Answers
+
+## Interactive React Interview Study Guide
+
+**[Open the study guide](https://amansachdev.github.io/reactjs-interview-questions/)** — browse a ranked set of React interview questions, search by topic, expand answers right on the page, and check off the ones you have studied. It includes the answers from this repository’s README, so you can prepare without navigating back and forth.
+
+Your checklist is saved in this browser on this device using local storage. It does not sync across browsers or devices. The ranking is a practical study order, not a prediction of what a specific interviewer will ask.
+
+The [study guide source](./study-guide/) and [local run instructions](./study-guide/README.md) are also available in this repository.
+
+---
 > Click :star: if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
 ---
@@ -12802,9 +12812,3 @@ The questions provided in this repository are the summary of frequently asked qu
 Good luck with your interview 😊
 
 ---
-
-### Ranked study guide
-
-Open the [React Interview Study Guide on GitHub Pages](https://amansachdev.github.io/reactjs-interview-questions/) to work through a prioritized shortlist, search the full question set, and save completed questions in your browser. The [source files](./study-guide/) are also available here.
-
-Run it locally from the repository root with `python3 -m http.server 8000`, then visit <http://localhost:8000/study-guide/>. See [study-guide/README.md](./study-guide/README.md) for GitHub Pages setup.
